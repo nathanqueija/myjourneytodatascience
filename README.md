@@ -1,7 +1,7 @@
 # My journey to Data Science
 
 Hey, there 🙃
-I'm Nathan and I've been working with software development for the past 9 years. Most of this time I spent on the frontend side of things. The past 4 years my focus was Javascript/Typescript and React, but also doing some backend stuff here and there because I'm curious.
+I'm Nathan and I've been working with software development for the past 9 years. Most of this time I spent on the frontend side of things. The past 4 years my focus has been Javascript/Typescript and React, but also doing some backend stuff here and there because I'm curious.
 
 One of my hobbies is writing. I always liked to translate my thoughts and feelings into text and it is always a surprise when this output makes sense to other people, but at the same time there was always this huge gap between coding and writing, even though I think that coding is also communicating, it is an intent express in code.
 
